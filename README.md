@@ -29,6 +29,7 @@
 > - 当期活动
 > - 每日奖励
 > - 点唱机
+> - 故事副本
 > - .........待更新
 
 ![image-20241201185302923](https://raw.githubusercontent.com/Ailike-1314/-Return-to-the-Future-1999/refs/heads/main/README.assets/image-20241201185302923.png)
@@ -38,4 +39,6 @@
 ##### 🍑更多详情
 
 >  [【脚本功能讲解：点击跳转B站】](https://www.bilibili.com/video/BV16YidYsE4J/?vd_source=40d53b16875935c4179ac0e0f74e3d89)
+>
+>  [【脚本使用教程：点击跳转B站】](Bhttps://www.bilibili.com/video/BV1V2qTYLEy9/)
 
