@@ -40,5 +40,6 @@
 
 >  [【脚本功能讲解：点击跳转B站】](https://www.bilibili.com/video/BV16YidYsE4J/?vd_source=40d53b16875935c4179ac0e0f74e3d89)
 >
->  [【脚本使用教程：点击跳转B站】](Bhttps://www.bilibili.com/video/BV1V2qTYLEy9/)
+>  [【脚本使用教程：点击跳转B站】](https://www.bilibili.com/video/BV1V2qTYLEy9/)
+
 
